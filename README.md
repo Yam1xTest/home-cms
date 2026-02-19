@@ -7,7 +7,7 @@ Add an .env file base on .env.example.
 
 Install dependencies:
 ```
-npm ci
+npm ci 
 ```
 
 To successfully run Strapi locally, run the command:
